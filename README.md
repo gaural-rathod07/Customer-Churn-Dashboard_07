@@ -31,8 +31,7 @@ Source: [Kaggle](https://www.kaggle.com/datasets/alfathterry/telco-customer-chur
 | Map | Where are we losing the most customers? |
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](<img width="1920" height="1080" alt="Customer Churn Overview Dashboard" src="https://github.com/user-attachments/assets/9d7509cb-bd84-47ba-812a-7d256c4ae224" />
-)
+<img width="1920" height="1080" alt="Customer Churn Overview Dashboard" src="https://github.com/user-attachments/assets/9d7509cb-bd84-47ba-812a-7d256c4ae224" />
 
 ## Author
 **Gaural Rathod**  
