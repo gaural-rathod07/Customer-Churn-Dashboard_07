@@ -16,12 +16,6 @@ Source: [Kaggle](https://www.kaggle.com/datasets/alfathterry/telco-customer-chur
 - **Dataset:** IBM Telco Customer Churn (v11.1.3+) by Alfathterry on Kaggle  
 - **Original Source:** IBM Community Blog (IBM, 2019)
 
-## Key Insights
-- Competitor issues drive **45% of churn** (841 customers)
-- Customers paying **$70+/month** churn significantly more
-- **Fiber Optic + Month-to-Month** is highest-risk segment at 58.8%
-- **San Diego** has the highest churned customer concentration (185)
-
 ## Dashboard Views
 | Chart | Question |
 |-------|----------|
@@ -29,6 +23,12 @@ Source: [Kaggle](https://www.kaggle.com/datasets/alfathterry/telco-customer-chur
 | Histogram | How are monthly charges distributed? |
 | Heatmap | Which segments have highest churn rates? |
 | Map | Where are we losing the most customers? |
+
+## Key Insights
+- Competitor issues drive **45% of churn** (841 customers)
+- Customers paying **$70+/month** churn significantly more
+- **Fiber Optic + Month-to-Month** is highest-risk segment at 58.8%
+- **San Diego** has the highest churned customer concentration (185)
 
 ## 📸 Dashboard Preview
 <img width="1920" height="1080" alt="Customer Churn Overview Dashboard" src="https://github.com/user-attachments/assets/9d7509cb-bd84-47ba-812a-7d256c4ae224" />
