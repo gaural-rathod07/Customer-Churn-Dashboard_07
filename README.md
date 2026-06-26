@@ -12,7 +12,7 @@ Click any city to filter all views instantly.
 IBM Telco Customer Churn Dataset (v11.1.3+)  
 Source: [Kaggle](https://www.kaggle.com/datasets/alfathterry/telco-customer-churn-11-1-3)
 
-## Credits
+### Credits
 - **Dataset:** IBM Telco Customer Churn (v11.1.3+) by Alfathterry on Kaggle  
 - **Original Source:** IBM Community Blog (IBM, 2019)
 
