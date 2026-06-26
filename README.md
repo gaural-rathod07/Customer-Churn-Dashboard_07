@@ -12,6 +12,10 @@ Click any city to filter all views instantly.
 IBM Telco Customer Churn Dataset (v11.1.3+)  
 Source: [Kaggle](https://www.kaggle.com/datasets/alfathterry/telco-customer-churn-11-1-3)
 
+## Credits
+- **Dataset:** IBM Telco Customer Churn (v11.1.3+) by Alfathterry on Kaggle  
+- **Original Source:** IBM Community Blog (IBM, 2019)
+
 ## Key Insights
 - Competitor issues drive **45% of churn** (841 customers)
 - Customers paying **$70+/month** churn significantly more
