@@ -1,7 +1,7 @@
 # Telco Customer Churn – Retention Intelligence Dashboard
 
 ## Overview
-Interactive Tableau dashboard analysing IBM Telco Customer Churn (7,043 customers). 
+Interactive dashboard analysing IBM Telco Customer Churn (7,043 customers). 
 Coordinated bar chart, histogram, heatmap & map reveal why customers leave. 
 Click any city to filter all views instantly.
 
