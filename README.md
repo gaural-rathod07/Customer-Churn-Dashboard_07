@@ -16,6 +16,10 @@ Source: [Kaggle](https://www.kaggle.com/datasets/alfathterry/telco-customer-chur
 - **Dataset:** IBM Telco Customer Churn (v11.1.3+) by Alfathterry on Kaggle  
 - **Original Source:** IBM Community Blog (IBM, 2019)
 
+## 🛠️ Tools Used
+- Tableau Desktop
+- Power BI Desktop
+
 ## Dashboard Views
 | Chart | Question |
 |-------|----------|
@@ -31,7 +35,11 @@ Source: [Kaggle](https://www.kaggle.com/datasets/alfathterry/telco-customer-chur
 - **San Diego** has the highest churned customer concentration (185)
 
 ## 📸 Dashboard Preview
+### Tableau Dashboard
 <img width="1920" height="1080" alt="Customer Churn Overview Dashboard" src="https://github.com/user-attachments/assets/9d7509cb-bd84-47ba-812a-7d256c4ae224" />
+
+### Power BI Dashboard
+<img width="1241" height="720" alt="Power-BI" src="https://github.com/user-attachments/assets/a9275dbe-cfa5-48ca-9733-277976e8d2c4" />
 
 ## Author
 **Gaural Rathod**  
